@@ -8,4 +8,4 @@
 - Download and install latest Python from [python.org](https://python.org/).<br>
 - Run passwordGenerator.py as common Python scripts.
 ## License
-<b>MIT License</b
+<b>MIT License</b>
